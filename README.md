@@ -1,5 +1,8 @@
 # ssbc
 手撕包菜磁力链接搜索网站
+## 演示站 [www.cili66.com](http://www.cili66.com)
+    演示站用nginx做反代，缓存静态资源。
+    请忽略演示站中的热门搜索关键字，那些关键字是搜索引擎来的量,与我无关啊，我还是个孩子啊~~。QAQ
 ## 网站说明
 ###这是 www.shousibaocai.com 的网站源代码,作者是[https://github.com/78/ssbc](https://github.com/78/ssbc)
     在原作者基础上制作了一键安装脚本及修复了部分BUG：
